@@ -1,11 +1,10 @@
-wikis:
-  - name: wikis2pages-demo
-    src: https://github.com/codeenigma/wikis2pages-demo.wiki.git
-    src_branch: master
-    src_subdir: ''
-    dest: https://github.com/codeenigma/wikis2pages-demo.git
-    dest_branch: master
-    dest_subdir: docs/wiki
-    title: Wikis 2 Pages - Demo
-    type: basic
-    base_url: https://codeenigma.github.io/wikis2pages-demo/docs/wiki
+wikis2pages-demo:
+  src: https://github.com/codeenigma/wikis2pages-demo.wiki.git
+  src_branch: master
+  src_subdir: ''
+  dest: https://github.com/codeenigma/wikis2pages-demo.git
+  dest_branch: master
+  dest_subdir: docs/wiki
+  title: Wikis 2 Pages - Demo
+  type: basic
+  base_url: https://codeenigma.github.io/wikis2pages-demo/docs/wiki
