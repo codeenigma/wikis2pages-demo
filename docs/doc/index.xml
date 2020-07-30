@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis 2 Pages - Demo</title>
+    <link>https://codeenigma.github.io/wikis2pages-demo/doc/</link>
+    <description>Recent content on Wikis 2 Pages - Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://codeenigma.github.io/wikis2pages-demo/doc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://codeenigma.github.io/wikis2pages-demo/doc/_sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeenigma.github.io/wikis2pages-demo/doc/_sidebar/</guid>
+      <description>   Home   Install   Getting started     </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://codeenigma.github.io/wikis2pages-demo/doc/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeenigma.github.io/wikis2pages-demo/doc/home/</guid>
+      <description>Quid herba terrenaque isque Meropisque pectora inevitabile In inferna ferro  Lorem markdownum Alcmene exteriusque scinditque et ante talis senserit totidemque mea inque, vulnus nate concordant. Caput Phoebo arvis. Eoo sucos et curvis quam; nec vino tuas, ferunt se Vulcania adeam limina. Hesternos parenti etiam rima Dictys factum dryadas silva fore, lacrimasque Erysicthonis pars tectus?
+Aevum saltu iam simque mensam tibi coniuge: patrem ferebat ultra. Dextraque Astreus tremit; occursu silvarum, quondam insequitur oras partibus omnibus?</description>
+    </item>
+    
+  </channel>
+</rss>
