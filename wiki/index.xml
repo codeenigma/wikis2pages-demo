@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis 2 Pages - Demo</title>
+    <link>https://codeenigma.github.io/wikis2pages-demo/wiki/</link>
+    <description>Recent content on Wikis 2 Pages - Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://codeenigma.github.io/wikis2pages-demo/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://codeenigma.github.io/wikis2pages-demo/wiki/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeenigma.github.io/wikis2pages-demo/wiki/home/</guid>
+      <description>Welcome to the wikis2pages-demo wiki!</description>
+    </item>
+    
+  </channel>
+</rss>
