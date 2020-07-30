@@ -1,4 +1,4 @@
 # Demo/test wikis2pages
 
-- wiki/home
-- doc/home
+- [basic](wiki/home)
+- [doc](doc/home)
