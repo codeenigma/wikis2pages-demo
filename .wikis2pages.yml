@@ -1,20 +1,40 @@
-wikis2pages-travis:
+wikis2pages-demo-wiki-travis:
   src: https://$GITHUB_TOKEN@github.com/codeenigma/wikis2pages-demo.wiki.git
   src_branch: master
   src_subdir: ''
   dest: https://$GITHUB_TOKEN@github.com/codeenigma/wikis2pages-demo.git
   dest_branch: master
-  dest_subdir: wiki
+  dest_subdir: docs/wiki
   title: Wikis 2 Pages - Demo
   type: basic
   base_url: https://codeenigma.github.io/wikis2pages-demo/wiki
-# wikis2pages-demo:
-#   src: git@github.com/codeenigma/wikis2pages-demo.wiki.git
-#   src_branch: master
-#   src_subdir: ''
-#   dest: git@github.com/codeenigma/wikis2pages-demo.git
-#   dest_branch: master
-#   dest_subdir: wiki
-#   title: Wikis 2 Pages - Demo
-#   type: basic
-#   base_url: https://codeenigma.github.io/wikis2pages-demo/wiki
+wikis2pages-demo-wiki-local:
+  src: git@github.com/codeenigma/wikis2pages-demo.wiki.git
+  src_branch: master
+  src_subdir: ''
+  dest: git@github.com/codeenigma/wikis2pages-demo.git
+  dest_branch: master
+  dest_subdir: docs/wiki
+  title: Wikis 2 Pages - Demo
+  type: basic
+  base_url: https://codeenigma.github.io/wikis2pages-demo/wiki
+wikis2pages-demo-doc-travis:
+  src: https://$GITHUB_TOKEN@github.com/codeenigma/wikis2pages-demo.git
+  src_branch: master
+  src_subdir: 'src/doc'
+  dest: https://$GITHUB_TOKEN@github.com/codeenigma/wikis2pages-demo.git
+  dest_branch: master
+  dest_subdir: docs/doc
+  title: Wikis 2 Pages - Demo
+  type: doc
+  base_url: https://codeenigma.github.io/wikis2pages-demo/doc
+wikis2pages-demo-doc-local:
+  src: git@github.com/codeenigma/wikis2pages-demo.git
+  src_branch: master
+  src_subdir: 'src/doc'
+  dest: git@github.com/codeenigma/wikis2pages-demo.git
+  dest_branch: master
+  dest_subdir: docs/doc
+  title: Wikis 2 Pages - Demo
+  type: doc
+  base_url: https://codeenigma.github.io/wikis2pages-demo/doc
