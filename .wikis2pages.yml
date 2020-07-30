@@ -8,13 +8,13 @@ wikis2pages-travis:
   title: Wikis 2 Pages - Demo
   type: basic
   base_url: https://codeenigma.github.io/wikis2pages-demo/wiki
-wikis2pages-demo:
-  src: git@github.com/codeenigma/wikis2pages-demo.wiki.git
-  src_branch: master
-  src_subdir: ''
-  dest: git@github.com/codeenigma/wikis2pages-demo.git
-  dest_branch: master
-  dest_subdir: wiki
-  title: Wikis 2 Pages - Demo
-  type: basic
-  base_url: https://codeenigma.github.io/wikis2pages-demo/wiki
+# wikis2pages-demo:
+#   src: git@github.com/codeenigma/wikis2pages-demo.wiki.git
+#   src_branch: master
+#   src_subdir: ''
+#   dest: git@github.com/codeenigma/wikis2pages-demo.git
+#   dest_branch: master
+#   dest_subdir: wiki
+#   title: Wikis 2 Pages - Demo
+#   type: basic
+#   base_url: https://codeenigma.github.io/wikis2pages-demo/wiki
